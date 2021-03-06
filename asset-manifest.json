@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quotesBreakingBad/static/css/main.4027fb86.chunk.css",
+    "main.js": "/quotesBreakingBad/static/js/main.ad0aba15.chunk.js",
+    "main.js.map": "/quotesBreakingBad/static/js/main.ad0aba15.chunk.js.map",
+    "runtime-main.js": "/quotesBreakingBad/static/js/runtime-main.3e6ce031.js",
+    "runtime-main.js.map": "/quotesBreakingBad/static/js/runtime-main.3e6ce031.js.map",
+    "static/js/2.55c19874.chunk.js": "/quotesBreakingBad/static/js/2.55c19874.chunk.js",
+    "static/js/2.55c19874.chunk.js.map": "/quotesBreakingBad/static/js/2.55c19874.chunk.js.map",
+    "static/js/3.a3443233.chunk.js": "/quotesBreakingBad/static/js/3.a3443233.chunk.js",
+    "static/js/3.a3443233.chunk.js.map": "/quotesBreakingBad/static/js/3.a3443233.chunk.js.map",
+    "index.html": "/quotesBreakingBad/index.html",
+    "static/css/main.4027fb86.chunk.css.map": "/quotesBreakingBad/static/css/main.4027fb86.chunk.css.map",
+    "static/js/2.55c19874.chunk.js.LICENSE.txt": "/quotesBreakingBad/static/js/2.55c19874.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/quotesBreakingBad/static/media/logo.4543bc50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6ce031.js",
+    "static/js/2.55c19874.chunk.js",
+    "static/css/main.4027fb86.chunk.css",
+    "static/js/main.ad0aba15.chunk.js"
+  ]
+}
